@@ -7,3 +7,5 @@ In process :)
 
 Step 1: Obtaining data: Gemstons_Obtaining_Data
 Data crawling. Main tools: Selenium Webdriver and BeautifulSoup
+
+Step 2: 
