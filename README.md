@@ -15,5 +15,5 @@ Step 4: Modeling: Step 4 - Clustering and Modeling Data.ipynb
 Clustering the data into 8 groups, by Kmeans algorithm (Unsupervised).
 Machine learning model: Comparison of the performance of 3 supervised algorithms: RandomForestClassifier, DecisionTreeClassifier, and KNN.
 
-Step 5: Understanding the results + Final machine learning model: Step 5 - interpreting Data.ipynb
+Step 5: Understanding the results + Final machine learning model (based on DecisionTreeClassifier): Step 5 - interpreting Data.ipynb
 
