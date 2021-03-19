@@ -1,4 +1,4 @@
-# Gemstones Project
+# ML Gemstones Project
 
 Data Science project about crystals and gemstones
 
