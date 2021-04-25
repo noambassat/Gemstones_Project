@@ -1,6 +1,6 @@
 # ML Gemstones Project
 
-Contact me: NoamBassat92@gmail.com
+Contact: NoamBassat92@gmail.com
 
 Data Science project about crystals and gemstones
 
