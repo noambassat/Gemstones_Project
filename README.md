@@ -1,14 +1,12 @@
-# ML Gemstones Project
+# 
 
 Contact: NoamBassat92@gmail.com
 
 
-<h1 style="text-align: center;">Genstones Tracker</h1>
-<!-- PROJECT LOGO -->
+<h1 style="text-align: center;">ML Gemstones Project</h1>
 <br />
 <p align="center">
   <a href="https://github.com/noambassat/Gemstones_Project">
-    <img src="Misc/logo.png" alt="Logo" width="280" height="230">
   </a>
 
   <h3 align="center"Genstones Tracker</h3>
