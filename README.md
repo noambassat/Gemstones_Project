@@ -2,6 +2,31 @@
 
 Contact: NoamBassat92@gmail.com
 
+
+<h1 style="text-align: center;">Genstones Tracker</h1>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/noambassat/Gemstones_Project">
+    <img src="Misc/logo.png" alt="Logo" width="280" height="230">
+  </a>
+
+  <h3 align="center"Genstones Tracker</h3>
+
+  <p align="center">
+    Find genstones by a given location
+    <br />
+    <a href="https://github.com/noambassat/Gemstones_Project/wiki/">View Demo</a>
+    ·
+    <a href="https://github.com/noambassat/Gemstones_Project/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/noambassat/Gemstones_Project/issues">Request Feature</a>
+  </p>
+</p>
+
+
+
+
 Data Science project about crystals and gemstones
 
 # Please download the PROJECT PRESENTION: Gemstones_project_Presention.pdf
