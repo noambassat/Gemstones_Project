@@ -42,5 +42,5 @@ Machine learning model: Comparison of the performance of 3 supervised algorithms
 
 Step 5: Understanding the results + Final machine learning model (based on DecisionTreeClassifier): Step 5 - interpreting Data.ipynb
 
-Accuracy on train data 0.9955555555555555
-Accuracy on test data 0.9751552795031055
+Accuracy on train data 0.99
+Accuracy on test data 0.97
