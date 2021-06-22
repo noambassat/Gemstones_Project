@@ -29,8 +29,7 @@ Contact: NoamBassat92@gmail.com
 
 Data Science project about crystals and gemstones
 
-# Please download the PROJECT PRESENTION: Gemstones_project_Presention.pdf for more details
-
+# PROJECT PRESENTION: Gemstones_project_Presention.pdf
 Step 1: Obtaining data: Gemstons_Obtaining_Data
 Data crawling. Main tools: Selenium Webdriver and BeautifulSoup
 
