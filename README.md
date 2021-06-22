@@ -1,8 +1,5 @@
 # 
 
-![image](https://user-images.githubusercontent.com/42816702/122926927-07c44300-d371-11eb-80f2-484918464a1b.png)
-
-
 
 
 Contact: NoamBassat92@gmail.com
@@ -11,6 +8,7 @@ Contact: NoamBassat92@gmail.com
 <h1 style="text-align: center;">ML Gemstones Project</h1>
 <br />
 <p align="center">
+  ![image](https://user-images.githubusercontent.com/42816702/122926927-07c44300-d371-11eb-80f2-484918464a1b.png)
   <a href="https://github.com/noambassat/Gemstones_Project">
   </a>
 
